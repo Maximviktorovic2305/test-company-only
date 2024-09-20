@@ -1,0 +1,21 @@
+.githubWrapper {
+	position: relative;
+}
+
+.githubImg {
+	position: absolute;
+	top: 4rem;
+	right: 3%;
+	width: 30px;
+	height: 30px;
+}
+
+.githubPopup {
+	position: absolute;
+	top: 30px;
+	right: 40px;
+	background-color: var(--gray);
+	padding: 4px;
+	border-radius: 4px;
+	color: var(--white);
+}
